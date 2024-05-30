@@ -4,15 +4,13 @@ header
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    padding-left: 20px;
+
 }
 .logo{
-    width: 200px;
+    width: 100px;
     height: 70px;
     background-image: url('../images/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
-
-
+    padding-left: 20px;
 }
